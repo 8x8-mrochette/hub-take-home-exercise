@@ -28,4 +28,5 @@ For this exercise, you will need to create fetch requests to retrieve data on th
 ## Quick tips
 
 - Although we've plugged in SASS, you can write plain CSS if you prefer
-- As per the documentation for the API, you can use `fetch`. Free free to use whichever method you prefer (like axios) to retrieve the data for the given endpoints
+- As per the documentation for the API, you can use `fetch`. Feel free to use whichever method you prefer (like axios) to retrieve the data for the given endpoints
+- Although we require you to complete the 3 parameters for the exercise, feel free to add as much in here as you'd like.  This is an opportunity for you to showcase what you can do, and it will help us understand where in the company we could best use your talents!
